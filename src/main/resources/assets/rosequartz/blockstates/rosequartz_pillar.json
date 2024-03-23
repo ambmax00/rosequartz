@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "rosequartz:block/rosequartz_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "rosequartz:block/rosequartz_pillar"
+    },
+    "axis=z": {
+      "model": "rosequartz:block/rosequartz_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

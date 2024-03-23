@@ -37,4 +37,44 @@ public class ItemInit {
 			() -> new BlockItem(BlockInit.ROSEQUARTZ_BRICKS.get(), 
 					new Item.Properties()
 			));
+	
+	public static final RegistryObject<BlockItem> ROSEQUARTZ_BLOCK_ITEM = ITEMS.register("rosequartz_block", 
+			() -> new BlockItem(BlockInit.ROSEQUARTZ_BLOCK.get(), 
+					new Item.Properties()
+			));
+	
+	public static final RegistryObject<BlockItem> ROSEQUARTZ_STAIRS_ITEM = ITEMS.register("rosequartz_stairs", 
+			() -> new BlockItem(BlockInit.ROSEQUARTZ_STAIRS.get(), 
+					new Item.Properties()
+			));
+	
+	public static final RegistryObject<BlockItem> ROSEQUARTZ_BRICK_STAIRS_ITEM = ITEMS.register("rosequartz_brick_stairs", 
+			() -> new BlockItem(BlockInit.ROSEQUARTZ_BRICK_STAIRS.get(), 
+					new Item.Properties()
+			));
+	
+	public static final RegistryObject<BlockItem> ROSEQUARTZ_SLAB_ITEM = ITEMS.register("rosequartz_slab", 
+			() -> new BlockItem(BlockInit.ROSEQUARTZ_SLAB.get(), 
+					new Item.Properties()
+			));
+	
+	public static final RegistryObject<BlockItem> ROSEQUARTZ_PILLAR_ITEM = ITEMS.register("rosequartz_pillar", 
+			() -> new BlockItem(BlockInit.ROSEQUARTZ_PILLAR.get(), 
+					new Item.Properties()
+			));
+	
+	public static final RegistryObject<BlockItem> CHISELED_ROSEQUARTZ_BLOCK_ITEM = ITEMS.register("chiseled_rosequartz_block", 
+			() -> new BlockItem(BlockInit.CHISELED_ROSEQUARTZ_BLOCK.get(), 
+					new Item.Properties()
+			));
+	
+	public static final RegistryObject<BlockItem> ROSEQUARTZ_WALL_ITEM = ITEMS.register("rosequartz_wall", 
+			() -> new BlockItem(BlockInit.ROSEQUARTZ_WALL.get(), 
+					new Item.Properties()
+			));
+	
+	public static final RegistryObject<BlockItem> ROSEQUARTZ_BRICK_WALL_ITEM = ITEMS.register("rosequartz_brick_wall", 
+			() -> new BlockItem(BlockInit.ROSEQUARTZ_BRICK_WALL.get(), 
+					new Item.Properties()
+			));
 }

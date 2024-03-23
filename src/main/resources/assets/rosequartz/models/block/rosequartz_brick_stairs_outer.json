@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "rosequartz:block/rosequartz_bricks",
+    "side": "rosequartz:block/rosequartz_bricks",
+    "top": "rosequartz:block/rosequartz_bricks"
+  }
+}

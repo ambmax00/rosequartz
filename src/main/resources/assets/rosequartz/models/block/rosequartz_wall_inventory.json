@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "rosequartz:block/rosequartz_block_side"
+  }
+}

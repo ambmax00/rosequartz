@@ -1,3 +1,11 @@
 {
-	"item.rosequartz.rosequartz_bricks": "Rose Quartz Bricks"
+	"item.rosequartz.rosequartz_bricks": "Rose Quartz Bricks",
+	"item.rosequartz.rosequartz_block": "Rose Quartz Block",
+	"item.rosequartz.rosequartz_stairs": "Rose Quartz Stairs",
+	"item.rosequartz.rosequartz_brick_stairs": "Rose Quartz Brick Stairs",
+	"item.rosequartz.rosequartz_slab": "Rose Quartz Slab",
+	"item.rosequartz.rosequartz_pillar": "Rose Quartz Pillar",
+	"item.rosequartz.chiseled_rosequartz_block": "Chiseled Rose Quartz Block",
+	"item.rosequartz.rosequartz_wall": "Rose Quartz Wall",
+	"item.rosequartz.rosequartz_brick_wall": "Rose Quartz Brick Wall"
 }
